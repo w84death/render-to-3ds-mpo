@@ -9,8 +9,8 @@ Watch your blender scenes in real holographic-like experience!
 
 * Install Add-on
 * Setup two cameras: Camera_Left, Camera_Right
-* Set default path in Output tab (no filename)
-* Go to Render tab and scroll down to Render MPO
+* Set default path in Output tab (prefix name, eg. "lamp") - script will add "_l.jpg" and "_r.jpg" ![Naming](media/name.png)
+* Go to Render tab and scroll down to Render MPO ![Render](media/render.png)
 * Click button and wait...
 * For now combine images using [StereoPhoto Maker Pro](https://stereo.jpn.org/eng/stphmkr/)
 * I put my .mpo files on server and download them using browser on my 3Ds
