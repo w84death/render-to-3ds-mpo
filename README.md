@@ -8,7 +8,7 @@ Watch your blender scenes in real holographic-like experience!
 ## How to Use
 
 * Install Add-on
-* Add stereoscopic camera [Shift]+[a]
+* Add stereoscopic camera [Shift]+[a] ![Add Camera](media/add-camera.png)
 * Set default path in Output tab (prefix name, eg. "lamp") - script will add "_l.jpg" and "_r.jpg" ![Naming](media/name.png)
 * Go to Render tab and scroll down to Render MPO ![Render](media/render.png)
 * Click button and wait...
