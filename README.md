@@ -3,7 +3,7 @@ Blender plugin for easy rendering MPO files for Nintendo 3Ds stereoscopic displa
 
 Watch your blender scenes in real holographic-like experience!
 
-![Proof of Concept](render-to-3ds.jpg)
+![Proof of Concept](media/render-to-3ds.jpg)
 
 ## How to Use
 
